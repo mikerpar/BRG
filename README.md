@@ -16,8 +16,10 @@ What you need to set up:
 - Make a folder named "audio_workspace" in the repo
 - Make a folder named "background_clips" in the repo and fill it with your choice of background footage
 - Make a .env file and give it the following items:
+```
 GOOGLE_TTS_API_KEY = <YOUR KEY>
 GOOGLE_APPLICATION_CREDENTIALS = <YOUR AUTH JSON>
+```
 - Then place your google credential json in the repo
   DO NOT SHARE ANY OF YOUR KEYS
 - You will also need to set up your google tts under your own account
