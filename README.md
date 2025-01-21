@@ -1,0 +1,2 @@
+# BRG
+Brain rot generator
